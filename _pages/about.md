@@ -14,4 +14,4 @@ Website underconstruction. Will include experience/qualifications , resume, CV, 
 
 Test Post
 -----
-[Hyperlink test]((https://github.com/academicpages/academicpages.github.io)
+[Hyperlink test](https://github.com/academicpages/academicpages.github.io)
