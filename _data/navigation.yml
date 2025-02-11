@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Cover Letter"
-    url: /coverletter/
+  - title: "Letter of Recommendation"
+    url: /lor/
     
   # - title: "Guide"
   # url: /markdown/
