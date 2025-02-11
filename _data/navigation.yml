@@ -14,7 +14,7 @@ main:
   # - title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Projects"
+  - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -25,6 +25,10 @@ main:
 
   - title: "Letter of Recommendation"
     url: /lor/
+
+  - title: "Projects"
+    url: /projects/
+
     
   # - title: "Guide"
   # url: /markdown/
