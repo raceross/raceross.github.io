@@ -6,4 +6,5 @@ collection: projects
 ---
 
 Description of Able Flight project. Image is placeholder only.
+
 <img src='/images/controlsplaceholder.png'>

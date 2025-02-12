@@ -7,10 +7,21 @@ redirect_from:
   - /resume
 ---
 
+<style type="text/css"> 
+ 
+.tab {  
+		margin-left: 35px;  
+ 	} 
+ 
+</style> 
+
 {% include base_path %}
 
 Below is the text from an official letter of recommendation I received from Jessica Cox.
+
 You can view the original letter [here.](https://drive.google.com/file/d/15cFoBIbG7-EmXWUMmVzj_KjlbFT-DmX2/view?usp=sharing)
+
+<p class="tab">
 
     To whom it may concern,
 
@@ -55,3 +66,4 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
     Jessica Cox
 
     Executive Director, Rightfooted Foundation International
+</p>

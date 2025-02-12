@@ -6,4 +6,5 @@ collection: projects
 ---
 
 Description of Captsone project
+
 <img src='/images/groupphoto.jpeg'>
