@@ -50,5 +50,7 @@ am confident that he will bring the same level of dedication, innovation, and ex
 to your organization.
 
 Sincerely,
+
 Jessica Cox
+
 Executive Director, Rightfooted Foundation International
