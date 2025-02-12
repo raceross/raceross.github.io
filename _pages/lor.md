@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is the text from an official letter of recommendation I received from Jessica Cox. You can view the original letter [here.]](https://drive.google.com/file/d/15cFoBIbG7-EmXWUMmVzj_KjlbFT-DmX2/view?usp=sharing)
+Below is the text from an official letter of recommendation I received from Jessica Cox. You can view the original letter [here.](https://drive.google.com/file/d/15cFoBIbG7-EmXWUMmVzj_KjlbFT-DmX2/view?usp=sharing)
 
 To whom it may concern,
 
