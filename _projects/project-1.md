@@ -7,4 +7,6 @@ collection: projects
 
 Description of Captsone project
 
+[Link to RFI post.](https://www.impossibleairplane.com/build-updates/how-to-open-the-door)
+
 <img src='/images/groupphoto.jpeg'>

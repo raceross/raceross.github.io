@@ -26,9 +26,8 @@ Below is the text from an official letter of recommendation I received from Jess
 You can view the original letter [here.](https://drive.google.com/file/d/15cFoBIbG7-EmXWUMmVzj_KjlbFT-DmX2/view?usp=sharing)
 
 <p class="tab">
-
-
     To whom it may concern,
+</p>
 <br>
     <p class="doubletab">
     I am delighted to recommend Race Ross, a recent graduate from Oregon Tech with a
@@ -73,11 +72,10 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
     am confident that he will bring the same level of dedication, innovation, and excellence
     to your organization.
     </p>
+<p class="tab">
     Sincerely,
 <br>
-<br>
     Jessica Cox
-<br>
 <br>
     Executive Director, Rightfooted Foundation International
 </p>
