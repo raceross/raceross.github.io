@@ -12,6 +12,10 @@ redirect_from:
 .tab {  
 		margin-left: 35px;  
  	} 
+
+.doubletab {
+        margin-left: 70px;
+    }
  
 </style> 
 
@@ -27,7 +31,7 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
     To whom it may concern,
 <br>
 <br>
-
+    <p class="doubletab">
     I am delighted to recommend Race Ross, a recent graduate from Oregon Tech with a
     degree in Mechanical Engineering, who has made significant contributions to
     Rightfooted Foundation International's (RFI) groundbreaking Aviation program,
@@ -69,6 +73,7 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
     toward meaningful, inclusive solutions speak volumes of his character and potential. I
     am confident that he will bring the same level of dedication, innovation, and excellence
     to your organization.
+    </p>
 <br>
 <br>
     Sincerely,
