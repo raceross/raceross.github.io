@@ -4,5 +4,5 @@ excerpt: "Worked on a project for Able Flight to modify a light aircraft for tea
 collection: projects
 ---
 
-Description of Captsone project
+Description of Able Flight project. Image is placeholder only.
 <img src='/images/controlsplaceholder.png'>
