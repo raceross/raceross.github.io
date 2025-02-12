@@ -10,7 +10,7 @@ redirect_from:
 Under construction
 ======
 
-Website underconstruction. Will include experience/qualifications , resume, CV, current projects, and more
+Website under construction. Will include experience/qualifications , resume, CV, current projects, and more
 
 Test Post
 -----
