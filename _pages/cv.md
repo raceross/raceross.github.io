@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Science, Oregon Institute of Technology, Graduated Spring 2024
+  * Selected Course Work
+    * Class A
+    - Class B
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2023 - Spring 2024: Volunteer engineer
+  * Organization: Able Flight
+  * Duties includes: Design and CAD work of flight controls for a Vashon Ranger light-sport aircraft modified for pilots with disabilities.
+  * Coordinating supervisor: Clayton Smeltz 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Volunteer
+  * Organization: Right Footed Foundaiton 
+  * Duties included: Presentation of engineer work on the Impossible Airplane for Jessica Cox
+  * Coordinating supervisor: Jessica Cox
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018 - Summer 2023: Logistics Coordinator
+  * Nordstrom Inc.
+  * Duties included: Communicated with my team, outside businesses, and customers via email and phone.
+Receive incoming packages and maintain a log of tracking numbers in Excel.
+Organize warehouse space, moving pallets and keep packing stations supplied.
+
+This is to be changed and condensed.
+
+  * Store Manager: Courtney Posey
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Engineering
+* CAD
+  * Solidworks
+  * AutoCAD
+  * Etc.
+* Learning
