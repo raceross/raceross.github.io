@@ -73,7 +73,6 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
     am confident that he will bring the same level of dedication, innovation, and excellence
     to your organization.
     </p>
-<br>
     Sincerely,
 <br>
 <br>
