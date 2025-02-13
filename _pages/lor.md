@@ -18,7 +18,7 @@ redirect_from:
     }
 
 .tabfixed {
-        margin-left: 45px;
+        margin-left: 35px;
     }
  
 </style> 
