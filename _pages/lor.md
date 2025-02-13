@@ -16,6 +16,10 @@ redirect_from:
 .doubletab {
         margin-left: 70px;
     }
+
+.tabfixed {
+        margin-left: 45px;
+    }
  
 </style> 
 
@@ -71,7 +75,7 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
     am confident that he will bring the same level of dedication, innovation, and excellence
     to your organization.
 </p>
-<p class="tab">
+<p class="tabfixed">
     Sincerely,
 <br>
     Jessica Cox
