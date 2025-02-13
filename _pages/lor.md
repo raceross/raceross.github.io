@@ -32,7 +32,9 @@ You can view the original letter [here.](https://drive.google.com/file/d/15cFoBI
 <p class="tab">
     To whom it may concern,
 </p>
-<p class="doubletab">
+<p class="doubletab" 
+   align="justify">
+   
     I am delighted to recommend Race Ross, a recent graduate from Oregon Tech with a
     degree in Mechanical Engineering, who has made significant contributions to
     Rightfooted Foundation International's (RFI) groundbreaking Aviation program,
