@@ -15,8 +15,8 @@ Education
 ======
 * Bachelor of Science, Oregon Institute of Technology, Graduated Spring 2024
   * Selected Course Work
-    * Class A
-    - Class B
+    * Semiconductor Manufacturing
+    * HVAC
 
 Work experience
 ======
@@ -26,7 +26,7 @@ Work experience
   * Coordinating supervisor: Clayton Smeltz 
 
 * Summer 2023: Volunteer
-  * Organization: Right Footed Foundaiton 
+  * Organization: Right Footed Foundation 
   * Duties included: Presentation of engineer work on the Impossible Airplane for Jessica Cox
   * Coordinating supervisor: Jessica Cox
 
