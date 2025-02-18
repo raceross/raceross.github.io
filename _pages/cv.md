@@ -11,6 +11,8 @@ redirect_from:
 
 [Link to PDF of resume here.](https://drive.google.com/file/d/15U6jJwHMgwNPsL4zzHgb0Xz5mNQfHBh2/view?usp=sharing)
 
+[Link to new resume, work in progress](https://drive.google.com/file/d/10Dc092cETwV32N5RUJzvUldpM-mgmfGa/view?usp=drive_link)
+
 Education
 ======
 * Bachelor of Science, Oregon Institute of Technology, Graduated Spring 2024
