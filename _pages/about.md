@@ -12,6 +12,5 @@ Under construction
 
 Website under construction. Will include experience/qualifications , resume, CV, current projects, and more
 
-Test Post
 -----
-[Hyperlink test](https://github.com/academicpages/academicpages.github.io)
+[Link to current resume](https://raceross.github.io/files/resume.pdf)
