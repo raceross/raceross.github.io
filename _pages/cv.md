@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to PDF of resume here.](https://drive.google.com/file/d/15U6jJwHMgwNPsL4zzHgb0Xz5mNQfHBh2/view?usp=sharing)
-
-[Link to new resume, FOR TESTING, info is not accurate](https://drive.google.com/file/d/10Dc092cETwV32N5RUJzvUldpM-mgmfGa/view?usp=drive_link)
+[Link to PDF of resume here.](https://raceross.github.io/files/resume.pdf)
 
 Education
 ======
