@@ -27,7 +27,7 @@ redirect_from:
 
 Below is the text from an official letter of recommendation I received from Jessica Cox.
 
-You can view the original letter [here.]([https://drive.google.com/file/d/15cFoBIbG7-EmXWUMmVzj_KjlbFT-DmX2/view?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vTke3lBVzOo2ZNNybUacDDkyR8cNx4oY39l8AvnWFaE3gorbg4DtVS_ec_yQyBCCw/pub))
+You can view the original letter [here.](https://raceross.github.io/files/lor.pdf)
 
 <p class="tab">
     <strong>To whom it may concern,</strong>
