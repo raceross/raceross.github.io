@@ -42,13 +42,13 @@ Work Experience
     * Communicated with both private pilots and the aircraft manufacturer to obtain necessary details and specifications concerning the aircraft
 
 * Summer 2023: Right Footed Foundation
- * Volunteer
-  * Assisted in the installation of a custom-designed automatic door opener system into a prototype aircraft for Jessica Cox's Impossible Airplane project
-  * Worked with my capstone team to ensure the capstone project functioned properly in the new prototype aircraft
-  * Presented the engineering aspects of the project to potential sponsors at the EAA AirVenture show, highlighting design challenges and its impact
+  * Volunteer
+    * Assisted in the installation of a custom-designed automatic door opener system into a prototype aircraft for Jessica Cox's Impossible Airplane project
+    * Worked with my capstone team to ensure the capstone project functioned properly in the new prototype aircraft
+    * Presented the engineering aspects of the project to potential sponsors at the EAA AirVenture show, highlighting design challenges and its impact
 
 * Summer 2018 - Summer 2023: Nordstrom Inc.
-  *Logistics Team Lead
+  * Logistics Team Lead
     * Managed packaging and shipping of hazardous materials in compliance with company standards and current regulations, ensuring proper labeling and packing for carriers
     * As team lead, scheduled and coordinated shipping carrier pick-ups and drop-offs, maintaining clear communication with team members, businesses, and customers
     * Maintained tracking numbers, customer information, and carrier details in Excel, ensuring accountability and the accuracy of all shipping records
