@@ -13,19 +13,9 @@ redirect_from:
 
 Technical Skills
 ======
-* Languages
-  * MatLab/Octave
-  * Python
-  * G-code
-* CAD/FEA Software:
-  * Fusion 360
-  * SolidWorks
-  * AutoCAD
-  * Inventor
-* Data and Other Tools:
-  * Excel
-  * GitHub
-  * Visual Studio
+* Languages: MatLab/Octave, Python, G-code
+* CAD/FEA Software: Fusion 360, SolidWorks, AutoCAD, Inventor
+* Data and Other Tools: Excel, GitHub, Visual Studio
 
 Education
 ======
@@ -66,3 +56,7 @@ Project experience
   * Worked with Van's Aircraft and Jessica Cox to develop a solution that supports accessibility while ensuring secure door closure during flight
   * Created a prototype that provided space and functionality to enable the expansion of safety features for the Impossible Airplane project
   * Delivered a fully functional prototype, contributing to the development of Jessica Cox's accessible aircraft
+
+Professional Development
+* Fundamentals of Engineering (FE) Exam Mechanical: Currently studying for the certification exam
+* Software and Other Training: Actively learning NX, CATIA, and ANSYS through self-study and online courses
