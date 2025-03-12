@@ -12,6 +12,10 @@ Home Page
 
 Welcome! I'm Race, a mechanical engineer with experience in CAD design, large-scale 3D printing, and aviation accessibility solutions. This site showcases my work, including past projects, qualifications, and insights into my engineering journey.
 
-Use the links above to explore my CV, projects, blog, and recommendations, or check out my resume below. Feel free to reach out via my socials or email on the sidebar!
+Use the links above to explore my CV, current and past projects, letter of recommendations from Jessica Cox, my blog posts, or check out my resume below.
+
+Feel free to reach out via my socials or email on the sidebar!
+
 ======
+
 [Link to current resume](https://raceross.github.io/files/resume.pdf)
