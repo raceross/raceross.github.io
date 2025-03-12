@@ -19,7 +19,7 @@ Technical Skills
 
 Education
 ======
-* Bachelor of Science, Mechanical Engineering
+* <strong>Bachelor of Science, Mechanical Engineering</strong>
   * Oregon Institute of Technology, Graduated Spring 2024
   * Major GPA: 3.467
 
