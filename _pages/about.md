@@ -17,5 +17,4 @@ Use the links above to explore my CV, current and past projects, letter of recom
 Feel free to reach out via my socials or email on the sidebar!
 
 ======
-
 [Link to current resume](https://raceross.github.io/files/resume.pdf)
