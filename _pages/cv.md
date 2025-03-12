@@ -58,5 +58,6 @@ Project experience
   * Delivered a fully functional prototype, contributing to the development of Jessica Cox's accessible aircraft
 
 Professional Development
+======
 * Fundamentals of Engineering (FE) Exam Mechanical: Currently studying for the certification exam
 * Software and Other Training: Actively learning NX, CATIA, and ANSYS through self-study and online courses
