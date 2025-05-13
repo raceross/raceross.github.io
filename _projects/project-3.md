@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Oshkosh 2023"
-excerpt: "Presented the engineering accomplishments and future goals of Jessica Cox's Impossible airplane<br/><img src='/images/WisconsinPhoto.jpeg'>"
+title: "Able Flight"
+excerpt: "Worked on a project for Able Flight to modify a light aircraft for teaching student pilots without the use of their legs<br/><img src='/images/controlsplaceholder.png'>"
 collection: projects
 ---
 
-Description of Oshkosh
+Description of Able Flight project. Image is placeholder only.
 
-<img src='/images/WisconsinPhoto.jpeg'>
+<img src='/images/controlsplaceholder.png'>

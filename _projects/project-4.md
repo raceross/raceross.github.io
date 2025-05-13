@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "James Webb Telescope Lamp"
-excerpt: "Designed and CADed a wallmounted lamp that resembles the James Webb Telescope<br/><img src='/images/JamesWebbLamp.png'>"
+title: "Oshkosh 2023"
+excerpt: "Presented the engineering accomplishments and future goals of Jessica Cox's Impossible airplane<br/><img src='/images/WisconsinPhoto.jpeg'>"
 collection: projects
 ---
 
-Description of James Webb lamp
+Description of Oshkosh
 
-<img src='/images/JamesWebbLamp.png'>
+<img src='/images/WisconsinPhoto.jpeg'>

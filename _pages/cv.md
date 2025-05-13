@@ -25,7 +25,7 @@ Education
 
 Work Experience  
 ======  
-*<strong>Spring 2025: Freelance for Timberline Automation and Control Co. </strong>
+* <strong>Spring 2025: Freelance for Timberline Automation and Control Co. </strong>
   * Mechanical Design Engineer
       * Delivered mechanical design for an automated bottle return system under a tight development timeline
       * Defined project requirements with the customer, including technical constraints and competitor analysis
@@ -33,7 +33,7 @@ Work Experience
       * Built and refined a working prototype to validate design decisions under real-world conditions
       * Finalized system model in Autodesk Inventor, delivering complete engineering documentation and bill of materials
       * Provided cost estimates for the production prototype as well as production volumes of 10 and 100 units
-      
+
 * <strong>Winter 2023 - Spring 2024: Freelance connected to Able Flight
   * Volunteer Engineer  
     * Designed and modeled hand-use-only flight controls using Fusion 360, specifically crafted for light aircraft to accommodate pilots lacking lower limb mobility  

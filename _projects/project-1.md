@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Capstone Project"
-excerpt: "Worked with Vans Aviation and Jessica Cox to prototype a hands free aircraft door for pilots without the use of their arms<br/><img src='/images/groupphoto.jpeg'>"
+title: "recycletek Drop Door for automated bottle return"
+excerpt: "Designed and prototyped an automated bottle return system on a tight freelance timeline for Timberline Automation.<br/><img src='/images/recycleteklogosmall.png'>"
 collection: projects
 ---
 
-Description of Captsone project
+Description of recycletek project
 
-[Link to RFI post.](https://www.impossibleairplane.com/build-updates/how-to-open-the-door)
-
-<img src='/images/groupphoto.jpeg'>
+<img src='/images/recycleteklogosmall.png'>

@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Able Flight"
-excerpt: "Worked on a project for Able Flight to modify a light aircraft for teaching student pilots without the use of their legs<br/><img src='/images/controlsplaceholder.png'>"
+title: "Capstone Project"
+excerpt: "Worked with Vans Aviation and Jessica Cox to prototype a hands free aircraft door for pilots without the use of their arms<br/><img src='/images/groupphoto.jpeg'>"
 collection: projects
 ---
 
-Description of Able Flight project. Image is placeholder only.
+Description of Captsone project
 
-<img src='/images/controlsplaceholder.png'>
+[Link to RFI post.](https://www.impossibleairplane.com/build-updates/how-to-open-the-door)
+
+<img src='/images/groupphoto.jpeg'>

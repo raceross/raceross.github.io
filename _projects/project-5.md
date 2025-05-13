@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "recycletek Drop Door for automated bottle return"
-excerpt: "Designed and prototyped an automated bottle return system on a tight freelance timeline for Timberline Automation.<br/><img src='/images/recycleteklogosmall.png'>"
+title: "James Webb Telescope Lamp"
+excerpt: "Designed and CADed a wallmounted lamp that resembles the James Webb Telescope<br/><img src='/images/JamesWebbLamp.png'>"
 collection: projects
 ---
 
-Description of recycletek project
+Description of James Webb lamp
 
-<img src='/images/recycleteklogosmall.png'>
+<img src='/images/JamesWebbLamp.png'>
