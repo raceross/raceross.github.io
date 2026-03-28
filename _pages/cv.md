@@ -25,7 +25,16 @@ Education
 
 Work Experience  
 ======  
-* <strong>Spring 2025: Freelance for Timberline Automation and Control Co. </strong>
+
+* <strong>October 2025 - March 2026: Timberline Automation and Control Co. </strong>
+  * Manufacturing and Quality Engineer
+    * Manufactured three product lines, EcoPod, EcoCenter, and EcoHub, bottle deposit systems deployed as part of the State of California’s bottle deposit program
+    * Installed complete electrical and mechanical systems into bare container and trailer shells, working across multiple unit subtypes with battery, solar, and combined power configuration
+    * Integrated bottle drop and automated can/bottle counting subsystems, performing functional validation on all electrical and mechanical systems prior to field deployment
+    * Provided DFA/DFM feedback during assembly and contributed quality assurance findings to inform ongoing design improvements
+    * Supported a client in winning the majority of their grant applications through consistent unit performance and reliability in a newly regulated market
+
+* <strong>February 2025 - April 2025: Timberline Automation and Control Co. </strong>
   * Mechanical Design Engineer
       * Delivered mechanical design for an automated bottle return system under a tight development timeline
       * Defined project requirements with the customer, including technical constraints and competitor analysis
