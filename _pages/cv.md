@@ -32,7 +32,7 @@ Work Experience
     * Installed complete electrical and mechanical systems into bare container and trailer shells, working across multiple unit subtypes with battery, solar, and combined power configuration
     * Integrated bottle drop and automated can/bottle counting subsystems, performing functional validation on all electrical and mechanical systems prior to field deployment
     * Provided DFA/DFM feedback during assembly and contributed quality assurance findings to inform ongoing design improvements
-    * Supported a client in winning the majority of their grant applications through consistent unit performance and reliability in a newly regulated market
+    * Contributed to a client being awarded multiple grants through demonstrated unit performance and reliability during early field deployment
 
 * <strong>February 2025 - April 2025: Timberline Automation and Control Co. </strong>
   * Mechanical Design Engineer
