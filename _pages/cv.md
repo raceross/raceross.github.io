@@ -21,7 +21,7 @@ Education
 ======
 * <strong>Bachelor of Science, Mechanical Engineering</strong>
   * Oregon Institute of Technology, Graduated Spring 2024
-  * Major GPA: 3.467
+  * Major GPA: 3.46
 
 Work Experience  
 ======  
