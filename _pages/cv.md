@@ -28,9 +28,9 @@ Work Experience
 
 * <strong>October 2025 - March 2026: Timberline Automation and Control Co. </strong>
   * Manufacturing and Quality Engineer
-    * Manufactured three product lines, EcoPod, EcoCenter, and EcoHub, bottle deposit systems deployed as part of the State of California’s bottle deposit program
-    * Installed complete electrical and mechanical systems into bare container and trailer shells, working across multiple unit subtypes with battery, solar, and combined power configuration
-    * Integrated bottle drop and automated can/bottle counting subsystems, performing functional validation on all electrical and mechanical systems prior to field deployment
+    * Manufactured three product lines (EcoPod, EcoCenter, and EcoHub), bottle deposit systems deployed as part of the State of California's bottle deposit program
+    * Installed complete electrical and mechanical systems into bare container and trailer shells, working across multiple unit subtypes with battery, solar, and combined power configurations
+    * Integrated bottle bag drop and automated can/bottle counting subsystems, performing functional validation on all electrical and mechanical systems prior to field deployment
     * Provided DFA/DFM feedback during assembly and contributed quality assurance findings to inform ongoing design improvements
     * Contributed to a client being awarded multiple grants through demonstrated unit performance and reliability during early field deployment
 
