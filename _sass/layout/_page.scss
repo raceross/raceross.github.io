@@ -100,14 +100,16 @@
     font-size: $type-size-6;
   }
 
-  .project-gallery {
+  .project-gallery,
+  .archive .project-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 1rem;
     margin: 1.5rem 0;
   }
 
-  .project-gallery a {
+  .project-gallery a,
+  .archive .project-gallery a {
     display: block;
     overflow: hidden;
     border-radius: $border-radius;
@@ -115,12 +117,14 @@
     transition: transform 0.25s ease, box-shadow 0.25s ease;
   }
 
-  .project-gallery a:hover {
+  .project-gallery a:hover,
+  .archive .project-gallery a:hover {
     transform: translateY(-2px);
     box-shadow: 0 10px 25px rgba(#000, 0.16);
   }
 
-  .project-gallery img {
+  .project-gallery img,
+  .archive .project-gallery img {
     width: 100%;
     height: auto;
     display: block;
