@@ -5,6 +5,6 @@ excerpt: "Small project designing a FDM printed tea bag holder that rests under 
 collection: projects
 ---
 
-Description of Tea Bag Holder
+Small project to calibrate and testing of an Ender 3 3D printer. Currently installed in one of my cabinets next to my mugs.
 
 <img src='/images/TeaBagHolderModel.jpg'>
